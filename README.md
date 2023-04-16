@@ -27,3 +27,12 @@ The dataset has the following information:
 * DiabetesPedigreeFunction: A function which scores likelihood of diabetes based on family history.
 * Age: Age in years
 * Outcome : Class variable (0: person is not diabetic or 1: person is diabetic)
+
+-----------------------
+## Conclusion
+-----------------------
+
+Accuracy of Random Forest model on the test set = 79%
+Accuracy of the Logictic Regression model on the test set = 75%
+        
+so comparing thee above two models (random forest and logistic regression) it is clear that random forest performed better with the accuracy 79% on the test data.
